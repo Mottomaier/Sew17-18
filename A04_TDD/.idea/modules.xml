@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../A02_Threading/.idea/A02_Threading.iml" filepath="$PROJECT_DIR$/../A02_Threading/.idea/A02_Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/A04_TDD.iml" filepath="$PROJECT_DIR$/.idea/A04_TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../A06_Queues/.idea/A06_Queues.iml" filepath="$PROJECT_DIR$/../A06_Queues/.idea/A06_Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../A08_Watchdog_Queue/.idea/A08_Watchdog_Queue.iml" filepath="$PROJECT_DIR$/../A08_Watchdog_Queue/.idea/A08_Watchdog_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../A09_Pyside_Simple_Game/.idea/A09_Pyside_Simple_Game.iml" filepath="$PROJECT_DIR$/../A09_Pyside_Simple_Game/.idea/A09_Pyside_Simple_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../A10_ThreadSync/.idea/A10_ThreadSync.iml" filepath="$PROJECT_DIR$/../A10_ThreadSync/.idea/A10_ThreadSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../A11_IPC_Chat/.idea/A11_IPC_Chat.iml" filepath="$PROJECT_DIR$/../A11_IPC_Chat/.idea/A11_IPC_Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../A12_IPC_SharedMemory/.idea/A12_IPC_SharedMemory.iml" filepath="$PROJECT_DIR$/../A12_IPC_SharedMemory/.idea/A12_IPC_SharedMemory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../A15_SichereDeineDaten/.idea/A15_SichereDeineDaten.iml" filepath="$PROJECT_DIR$/../A15_SichereDeineDaten/.idea/A15_SichereDeineDaten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IPC-Projekt/.idea/IPC-Projekt.iml" filepath="$PROJECT_DIR$/../IPC-Projekt/.idea/IPC-Projekt.iml" />
+    </modules>
+  </component>
+</project>

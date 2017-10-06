@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.4.4 (C:\Python34\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="A02_Threading" />
+    <orderEntry type="module" module-name="A09_Pyside_Simple_Game" />
+    <orderEntry type="module" module-name="A10_ThreadSync" />
+    <orderEntry type="module" module-name="A06_Queues" />
+    <orderEntry type="module" module-name="A08_Watchdog_Queue" />
+    <orderEntry type="module" module-name="A11_IPC_Chat" />
+    <orderEntry type="module" module-name="A12_IPC_SharedMemory" />
+    <orderEntry type="module" module-name="IPC-Projekt" />
+    <orderEntry type="module" module-name="A15_SichereDeineDaten" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
